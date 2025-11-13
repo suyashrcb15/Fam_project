@@ -34,5 +34,5 @@ A minimal TypeScript web viewer is included under `/web` which demonstrates disp
 
 ## ScreenShot
 
-![UI](<img width="1024" height="1536" alt="ChatGPT Image Nov 13, 2025, 06_00_49 PM" src="https://github.com/user-attachments/assets/7c6e6b98-6f57-4084-bf96-0819ecfa6217" />
-)
+![UI](https://github.com/user-attachments/assets/7c6e6b98-6f57-4084-bf96-0819ecfa6217)
+
