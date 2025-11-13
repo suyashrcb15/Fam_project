@@ -33,5 +33,4 @@ npm start
 A minimal TypeScript web viewer is included under `/web` which demonstrates displaying a static processed frame (for desktop browsers).
 
 ## ScreenShot
-![EdgeDetect Expo Screenshot - Expo Go friendly](<img width="1024" height="1536" alt="ChatGPT Image Nov 13, 2025, 06_00_49 PM" src="https://github.com/user-attachments/assets/585df52c-c58a-4f16-93af-b54be08ea734" />
-)
+![EdgeDetect Expo Screenshot - Expo Go friendly](https://github.com/user-attachments/assets/585df52c-c58a-4f16-93af-b54be08ea734)
